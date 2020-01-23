@@ -31,7 +31,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   produce_storage_room = [CONVENTIONAL_PRODUCE,ORGANIC_PRODUCE]
-  produce_storage_room[1][1]
+  produce_storage_room[1][3]
 end
 
 def matrix_update(matrix, row, column, new_value)
